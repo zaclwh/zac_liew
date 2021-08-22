@@ -17,7 +17,7 @@
 
 <!-- Add your details -->
 
-I am __Zac Liew__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Zac Liew__, experienced in marketing, a lifelong learner and now learning about business and data analytics.
 
 
 <!-- Add link to the sections -->
@@ -41,6 +41,47 @@ UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
+##### Magnum Spirits & Wine Pte Ltd
+Marketing Manager 			                            
+Aug 2019 to Dec 2020<br>
+•	Manage and develop brand plan & visibility, product & price positioning; implement trade and off trade strategies and contents while working closely with sales & retail teams.<br>
+•	Manage product budgets; stock procurement and inventory monitoring.<br>
+•	Improved online engagement for DTC channel and online sales by 10%.<br>
+•	Successfully organized brand party for Piccini; generating >50% new leads for the brand's new products from the invited trade professionals and guests.<br>
+
+##### 75CL 
+Business Manager		                           
+Dec 2016 to July 2019<br>
+•	Manage e-commerce & retail business, brand awareness, customer acquisition
+•	Responsible for implementing sales plan, online and offline marketing campaign and strategies with periodic review of business activities using Excel.
+•	Reduced 40% of digital spends while producing the same sales value.
+•	Increased 10% overall sales YoY and streamlined business operations.
+
+##### Magnum Spirits & Wine Pte Ltd 
+Assistant Brand Manager 		                            
+July 2013 to Dec 2016<br>
+•	Liaise with suppliers and brand owners; develop brand visibility, manage product & price positioning, responsible in stock procurement, inventory management, with brand management and rolling sales campaigns.<br>
+•	Manage brand marketing & promotion budget with periodic review using Excel.<br>
+•	Co-developed sales programme with business owner, incorporating travel incentive; implemented with sales team with an increased 10% total sales.<br>
+
+
+##### Magnum Spirits & Wine Pte Ltd 
+Marketing Executive 			                           
+July 2010 to July 2013<br>
+•	Responsible for general marketing matters.<br>
+•	Manage stock procurement and product management.<br>
+•	Perform trade and retail sales with periodic sales review.<br>
+•	Created and implemented stock procurement system to track and monitor stock movement and procurement using Excel.<br>
+
+
+##### The Wine Gallery Pte Ltd 
+Retail Executive 				                         
+August 2009 to July 2010<br>
+•	Drive retail sales with excellent product knowledge and customer service.<br> 
+•	Manage the operations of flagship store and other branches.<br> 
+![image](https://user-images.githubusercontent.com/84428656/130348362-9fd7c61e-8977-40ff-8669-c44968d137bc.png)
+
+
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
@@ -48,6 +89,15 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- Add your details -->
 ##### LNCT Bhopal
 Engineering Graduate 2010-14, First Division
+
+##### Business & Data Analytics (RISE) 	
+Boston Consulting Group (BCG), Singapore  2021 Feb - Aug
+
+##### Bachelor of Mass Communications (Public Relations) 	
+Tunku Abdul Rahman University (UTAR), Malaysia  2009
+
+![image](https://user-images.githubusercontent.com/84428656/130348663-d25b3810-2bd2-4682-ad60-fb1495950993.png)
+
 
 <!-- EDUCATION Section Ends -->
 
