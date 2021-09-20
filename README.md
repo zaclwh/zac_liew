@@ -32,14 +32,6 @@ I am __Zac Liew__, experienced in marketing, a lifelong learner and now learning
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
-
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
-
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
 ##### Magnum Spirits & Wine Pte Ltd
 Marketing Manager 			                            
@@ -79,16 +71,13 @@ Retail Executive
 August 2009 to July 2010<br>
 •	Drive retail sales with excellent product knowledge and customer service.<br> 
 •	Manage the operations of flagship store and other branches.<br> 
-![image](https://user-images.githubusercontent.com/84428656/130348362-9fd7c61e-8977-40ff-8669-c44968d137bc.png)
-
+<!-- ![image](https://user-images.githubusercontent.com/84428656/130348362-9fd7c61e-8977-40ff-8669-c44968d137bc.png) -->
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
 
 ##### Business & Data Analytics (RISE) 	
 Boston Consulting Group (BCG), Singapore  2021 Feb - Aug
@@ -96,7 +85,7 @@ Boston Consulting Group (BCG), Singapore  2021 Feb - Aug
 ##### Bachelor of Mass Communications (Public Relations) 	
 Tunku Abdul Rahman University (UTAR), Malaysia  2009
 
-![image](https://user-images.githubusercontent.com/84428656/130348663-d25b3810-2bd2-4682-ad60-fb1495950993.png)
+<!-- ![image](https://user-images.githubusercontent.com/84428656/130348663-d25b3810-2bd2-4682-ad60-fb1495950993.png) -->
 
 
 <!-- EDUCATION Section Ends -->
@@ -110,7 +99,9 @@ Tunku Abdul Rahman University (UTAR), Malaysia  2009
 
 <!-- Add your details -->
 
-#### Classification based projects
+
+
+<!-- #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
@@ -122,7 +113,7 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression) -->
 
 <!-- PROJECTS Section Ends -->
 
@@ -130,10 +121,10 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+<!-- please write here -->
 
 ##### Achievements
-Star performer of the year at Accenture
+<!-- please write here -->
 <!-- FEATURED Section Ends -->
 
 # Extracurricular
